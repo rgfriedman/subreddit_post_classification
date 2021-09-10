@@ -1,4 +1,4 @@
-# ![]Subreddit Post Prediction
+# Subreddit Post Prediction
 
 ### Executive Summary
 
